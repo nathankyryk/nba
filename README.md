@@ -1,3 +1,8 @@
+---
+layout: post
+author: Nathan Kyryk
+title: 3-Pointer Evolution in the NBA
+---
 ## Project Overview:
 With this project, I plan to analyze the evolution of the three-point shot in the NBA. Furthermore, I will examine how the increase in 3-point shots has impacted player metrics, including rebounding and positional roles.
 
@@ -16,3 +21,8 @@ I will utilize the NBA_api package in Python to retrieve league-wide NBA stats. 
 * I expect to see an evolution in the "stretch big", e.g., Dirk Nowitzki, bigger players who would once be expected to be interior players who were dominant from three
 * I expect to see an increase in rebounding numbers for perimeter players, due to a larger bounce when shooting from distance
 
+## Updates
+* I have created a CSV table with many team stats that I may employ in a future project as well, but I will use it in this project to analyze 3PA, 3PM, team rebounding, FG%, and even blocks, as fewer interior shots should lead to fewer blocks
+* I still need to create a CSV containing individual player or positional statistics
+  * If doing individual players, I will likely do scraping on a site like Basketball Reference and filter out players averaging below 19 minutes or so, as there is a large amount of data
+  * I will likely take positional stats over the years
