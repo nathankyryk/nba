@@ -1,8 +1,3 @@
----
-layout: post
-author: Nathan Kyryk
-title: 3-Pointer Evolution in the NBA
----
 ## Project Overview:
 With this project, I plan to analyze the evolution of the three-point shot in the NBA. Furthermore, I will examine how the increase in 3-point shots has impacted player metrics, including rebounding and positional roles.
 
