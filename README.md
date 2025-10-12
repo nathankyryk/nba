@@ -7,7 +7,7 @@ title: 3-Pointer Evolution in the NBA
 With this project, I plan to analyze the evolution of the three-point shot in the NBA. Furthermore, I will examine how the increase in 3-point shots has impacted player metrics, including rebounding and positional roles.
 
 ## Data Retrieval:
-I will utilize the NBA_api package in Python to retrieve league-wide NBA stats. The three-point line was introduced in 1979, and the dataset begins in 1980. Therefore, I will use data from 1980 to the present.
+I will utilize the NBA_api package in Python to retrieve league-wide NBA stats. I will use data from 1996 to the present.
 
 ## Planned Steps:
 * Basic Analysis: I will find the regression line for 3PA and 3PM
