@@ -23,6 +23,14 @@ I will utilize the NBA_api package in Python to retrieve league-wide NBA stats. 
 
 ## Updates
 * I have created a CSV table with many team stats that I may employ in a future project as well, but I will use it in this project to analyze 3PA, 3PM, team rebounding, FG%, and even blocks, as fewer interior shots should lead to fewer blocks
-* I still need to create a CSV containing individual player or positional statistics
-  * If doing individual players, I will likely do scraping on a site like Basketball Reference and filter out players averaging below 19 minutes or so, as there is a large amount of data
-  * I will likely take positional stats over the years
+* CSVs have been created for team stats and player stats from 1996-2025
+* Regression line has been plotted with observed values for 3PM and 3PA, and I have summarized key statistics as well, showing that Year is a great estimator for 3PM and 3PA
+
+## Visualization and Analysis of 3PM and 3PA for team statistics from 1996-2025:
+Judging the entire league's stats for a single season:
+For each year that passes, the expected value for 3-point attempts increases by 27.717
+For each year that passes, the expected value for 3-point makes increases by 10.124 
+The r^2 is high and the p-value is low for both the 3PM and 3PA statistics
+We would reject the null hypothesis that the year is not a significant predictor for both 3PM and 3PA, even when using a very small alpha like .001
+Year is a great estimator for both 3PM and 3PA
+[Plot](https://github.com/nathankyryk/nathankyryk.github.io/blob/master/images/nba_3pt_regression_plot.png)
