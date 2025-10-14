@@ -28,4 +28,4 @@ For each year that passes, the expected value for 3-point makes increases by 10.
 The r^2 is high and the p-value is low for both the 3PM and 3PA statistics
 We would reject the null hypothesis that the year is not a significant predictor for both 3PM and 3PA, even when using a very small alpha like .001
 Year is a great estimator for both 3PM and 3PA.
-![Plot](https://github.com/nathankyryk/nathankyryk.github.io/blob/master/_posts/2025-10-10-nba.md)
+![Plot](https://github.com/nathankyryk/nathankyryk.github.io/blob/master/images/nba_3pt_regression.png)
