@@ -7,7 +7,7 @@ I will utilize the NBA_api package in Python to retrieve league-wide NBA stats. 
 ## Planned Steps:
 * Basic Analysis: I will find the regression line for 3PA and 3PM
 * Volume and Efficiency: I will look into how overall FG% is affected by the increase in 3PA
-* Clustering by Frame: I will look into 3PA, height, weight, and position to analyze how player frames correlate with the increase in 3PA
+* Analyzing 3PA by Position: I will look into 3PA and player position to analyze how player frames correlate with the increase in 3PA
 * Rebounding Analysis: I will look into how 3PA affects rebounding numbers. I plan to test the hypothesis that more 3-pointers lead to an increase in rebounds for smaller players due to a larger bounce off the rim.
 
 ## Predictions:
