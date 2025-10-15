@@ -34,7 +34,7 @@ For each year that passes, the expected value for 3-point makes increases by 10.
 The r^2 is high and the p-value is low for both the 3PM and 3PA statistics
 We would reject the null hypothesis that the year is not a significant predictor for both 3PM and 3PA, even when using a very small alpha like .001
 Year is a great estimator for both 3PM and 3PA.
-![Plot](https://github.com/nathankyryk/nba/blob/main/nba_3pt_regression.png)
+![Plot](https://github.com/nathankyryk/nba/blob/main/plots/nba_3pt_regression.png)
 
 ## Visualization and Analysis of FG% and 3PT% for team statistics from 1996-2025:
-![Plot](https://github.com/nathankyryk/nba/blob/main/nba_fg_percentages.png)
+![Plot](https://github.com/nathankyryk/nba/blob/main/plots/nba_fg_percentages.png)
