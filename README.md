@@ -64,6 +64,9 @@ Judging the entire league's stats for a single season:
 
 ![Plot](https://github.com/nathankyryk/nba/blob/main/plots/nba_fg_percentages.png)
 
+## Visualization of 3PA/game statistics for each position:
+![Plot](https://github.com/nathankyryk/nba/blob/main/plots/avg_3pa_per_position_by_season.png)
+
 ## Visualization of REB/game statistics for each position:
 ![Plot](https://github.com/nathankyryk/nba/blob/main/plots/avg_rebounds_per_position_by_season.png)
 
